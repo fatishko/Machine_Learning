@@ -57,7 +57,7 @@ scikit-learn>=1.0.0
   
 ## 🔍 Example Results
 
-![Linear Regression Plot](images/regression_plot.png)
+![Linear Regression Plot](linear_regression_normal_equation/plot_picture.png)
 
 *Sample output showing the fitted regression line with R² = 0.967*
 
